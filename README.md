@@ -1,4 +1,4 @@
-# Express & Sequelize Assignment — Authors & Books API
+# Express & Sequelize Assignment - Authors & Books API (i didnt have an idea so i chose the one the professor suggested)
 
 A RESTful CRUD API built with **Node.js**, **Express**, and **Sequelize** (MySQL), demonstrating models, one-to-many relationships, migrations, and organized routes/controllers.
 
